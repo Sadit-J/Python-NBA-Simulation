@@ -1,4 +1,4 @@
-Sadit's NBA Simulation
+Python NBA Simulation
 ----------------------
 
 The program utilizes a database from Kaggle (https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats) to simulate
